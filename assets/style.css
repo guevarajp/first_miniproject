@@ -1,0 +1,21 @@
+#img_mod {
+  max-height: 100px;
+  max-width: 100px;
+  align-items: center;
+}
+
+body {
+  background-image: url(assets/hot_matcha.jpg);
+}
+h1 {
+  color: black;
+  text-align: center;
+  display: inline-block;
+}
+
+h2 .center {
+  text-align: center;
+}
+*p {
+  font-size: large;
+}
