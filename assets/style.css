@@ -1,7 +1,7 @@
 #img_mod {
   max-height: 300px;
   max-width: 300px;
-  padding-left: 350px;
+  padding-left: 325px;
 }
 
 body {
@@ -10,9 +10,10 @@ body {
 
 h1 {
   text-align: center;
+  background-color: rgb(73, 241, 73);
 }
 
-h2 .center {
+h2 {
   text-align: center;
 }
 
