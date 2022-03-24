@@ -30,13 +30,22 @@
       <h2>A matcha latte is one good way to enjoy green tea</h2>
     </div>
     <div class="form">
-      <form href="#contact_form">
+      <h2>Contact Us</h2>
+      <form>
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" /><br /><br />
         <label for="email">Email:</label>
         <input type="text" id="email" name="email" /><br /><br />
         <label for="message">Message:</label>
-        <input type="text" id="message" name="message" /><br /><br />
+        <textarea
+          id="message"
+          name="message"
+          placeholder="Begin message..."
+          style="height: 200px"
+          ;
+        ></textarea
+        ><br /><br />
+        <a href="#contact_form"></a>
       </form>
       <button id="format_button" type="submit">Send</button>
     </div>
