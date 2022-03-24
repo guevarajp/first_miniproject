@@ -1,11 +1,8 @@
 #img_mod {
-  max-height: 300px;
-  max-width: 300px;
-  padding-left: 325px;
-  padding-bottom: 400px;
-  padding-top: 100px;
-  border-radius: 25px;
-  border-color: darkgreen;
+  max-height: 400px;
+  max-width: 400px;
+  margin-left: 40%;
+  position: relative;
 }
 
 body {
@@ -51,7 +48,8 @@ li {
   padding: 20px;
 }
 #format_button {
-  margin-left: 465px;
+  margin-left: 50%;
   text-align: center;
   margin-bottom: 20px;
+  position: relative;
 }
