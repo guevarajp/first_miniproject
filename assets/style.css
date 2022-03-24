@@ -54,3 +54,7 @@ li {
   margin-bottom: 20px;
   position: relative;
 }
+.contact {
+  padding-top: 2%;
+  font-weight: bold;
+}
